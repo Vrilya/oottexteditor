@@ -1,6 +1,6 @@
 # OoT Text Editor
 
-OoT Text Editor is a Windows desktop application for editing message and dialogue text in *The Legend of Zelda: Ocarina of Time*. It was created as part of my Swedish translation of the game. The tool exists mainly to document my work. Better and more feature-complete text editors for OoT are available in the community. The goal of this project was to build every part of the toolchain independently, without relying on existing tools. The editor was originally prototyped in Python and later rewritten in C#.
+OoT Text Editor is a Windows desktop application for editing message and dialogue text in Ocarina of Time. It was created as part of my Swedish translation of the game. The tool exists mainly to document my work. Better and more feature-complete text editors for OoT are available in the community. The goal of this project was to build every part of the toolchain independently, without relying on existing tools. The editor was originally prototyped in Python and later rewritten in C#.
 
 ## Usage
 
